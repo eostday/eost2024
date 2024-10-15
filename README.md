@@ -1,2 +1,2 @@
 # eost2024
-##https://eostday.kr
+## https://eostday.kr
